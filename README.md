@@ -1,6 +1,6 @@
 # HRDataset
 
-#### *High Resolution Dataset, set up and relevant functions. ####
+#### High Resolution Dataset, set up and relevant functions. ####
 
 To download the images, type: $ python download-images-from-csv.py <csv_filename> <folder_name>
 
